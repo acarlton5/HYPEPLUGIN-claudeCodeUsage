@@ -34,7 +34,7 @@ A [DMS (Dank Material Shell)](https://github.com/AvengeMedia/DankMaterialShell) 
 ### From the DMS Plugin Registry
 
 ```
-dms plugins install claudeCodeUsage
+hype plugins install claudeCodeUsage
 ```
 
 Or browse the plugin list in DMS Settings (`Mod + ,` > Plugins).
